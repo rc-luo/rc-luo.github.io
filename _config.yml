@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Ruichen's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ruichen Luo"
-description              : "Ruichen's website."
+description              : "All websites are wrong, but some are helpful."
 url                      : "https://rc-luo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an undergraduate student in Zhejiang University, majoring in computer science."
   location         : "Shanghai, China"
-  email            : "luoruichen [AT] outlook [DOT] com"
+  email            : "sslaw@zju.edu.cn"
   links:
     # - label: "Email"
       # icon: "fas fa-fw fa-envelope-square"
