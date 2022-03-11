@@ -279,7 +279,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/_pages/home.md"
+      path: ""
       type: posts
     values:
       layout: single
