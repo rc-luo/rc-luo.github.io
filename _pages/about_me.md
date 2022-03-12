@@ -1,3 +1,9 @@
+---
+title: About Me
+layout: home
+permalink: /about
+---
+
 I am broadly interesetd in machine learning and optimization, and particularly interested in:
 - Distributed optimization
 - Statistical learning
