@@ -25,6 +25,3 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
-
-# skin
-gem 'minimal-mistakes-jekyll', :git => 'https://github.com/mmistakes/minimal-mistakes.git', :branch => 'color-skins'
