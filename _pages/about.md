@@ -32,5 +32,5 @@ Recent posts
 ======
 {% for post in site.posts limit:2 reversed %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
