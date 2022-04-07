@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,11 +11,6 @@ redirect_from:
 I am currently an undergraduate student in Zhejiang University, majoring in computer science. 
 
 
-<span style="color:#58afe4">Highlight</span>
-------
-I am constantly seeking internship opportunities or other research collaborations. Feel free to reach out via <a href="mailto:{{site.author.email}}">email</a> ;)
-
-
 My research
 ======
 My research interest lies broadly in machine learning and optimization, and, more particularly, in:
@@ -23,3 +18,19 @@ My research interest lies broadly in machine learning and optimization, and, mor
   - Statistical learning,
   - Machine learning for real-world scenarios (*e.g.*, medical image analysis).
 
+  
+<span style="color:#58afe4">Highlight!</span>
+------
+I am constantly seeking internship opportunities or other research collaborations. Feel free to reach out via <a href="mailto:{{site.author.email}}">email</a> ;)
+
+
+Featured publications (see [full list](/publications))
+------
+
+
+Recent posts
+======
+{% for post in site.posts limit:2 reversed %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% include archive-single.html %}
+{% endfor %}

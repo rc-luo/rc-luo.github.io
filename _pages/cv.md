@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Science, Zhejiang University, 2018-2022
+<!-- * Ph.D in Computer Science, CISPA Helmholtz Center for Information Security, 2022- -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Research Intern
+  * The University of Hong Kong
+  * Duties included: 
+  * Supervisor: Dr. Lequan Yu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2022: Research Intern
+  * Tencent ARC Lab
+  * Duties included: 
+  * Supervisor: Dr. Yixiao Ge
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Optimization algorithms
+* Statistical learning
+* Python
+  * Pytorch
+  * Tensorflow
+* LaTeX
 
 Publications
 ======
@@ -42,18 +41,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+
