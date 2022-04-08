@@ -16,15 +16,14 @@ Education
 
 Work experience
 ======
-* Summer 2021: Research Intern
+* Jul 2021 - Oct 2021: Research Intern
   * The University of Hong Kong
-  * Duties included: 
-  * Supervisor: Dr. Lequan Yu
+  * Supervisor: [Dr. Lequan Yu](https://yulequan.github.io)
+  * Project: Selfish federated learning
 
-* Spring 2022: Research Intern
-  * Tencent ARC Lab
-  * Duties included: 
-  * Supervisor: Dr. Yixiao Ge
+* Jan 2022 - May 2022: Research Intern
+  * [Tencent ARC Lab](https://arc.tencent.com/en/index)
+  * Project: Pretrained model selection
   
 Skills
 ======
