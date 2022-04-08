@@ -18,8 +18,8 @@ My research interest lies broadly in machine learning and optimization, and, mor
   - Statistical learning,
   - Machine learning for real-world scenarios (*e.g.*, medical image analysis).
   
-<span style="color:#58afe4">Highlight!</span>
-I am constantly seeking internship opportunities or other research collaborations. Feel free to reach out via <a href="mailto:{{site.author.email}}">email</a> ;)
+<span style="color:#58afe4">*Highlight.*
+I am constantly seeking internship opportunities or other research collaborations. Feel free to reach out via <a href="mailto:{{site.author.email}}">email</a> ;)</span>
 
 
 Featured publications 

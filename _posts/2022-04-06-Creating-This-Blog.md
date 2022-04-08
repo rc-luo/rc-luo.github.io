@@ -1,5 +1,5 @@
 ---
-title: 'Craeting this homepage'
+title: 'Creating this homepage'
 date: 2022-04-06
 permalink: /posts/2022/04/Creating-This-Blog/
 tags:
