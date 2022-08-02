@@ -14,9 +14,9 @@ I am currently an undergraduate student in Zhejiang University, majoring in comp
 My research
 ======
 My research interest includes but not limited to:
-  - Secure and privacy-preserving machine learning,
   - Distributed optimization,
-  - Artificial intelligence for real-world scenarios (*e.g.*, medical image analysis).
+  - Statistical learning,
+  - Privacy-preserving machine learning.
 
 <span style="color:#58afe4">*Highlight.*
 I am constantly seeking internship opportunities or other research collaborations. Feel free to reach out via <a href="mailto:{{site.author.email}}">email</a> ;)</span>
