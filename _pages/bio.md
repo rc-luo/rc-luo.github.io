@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science, Zhejiang University, 2018-2022
-<!-- * Ph.D in Computer Science, CISPA Helmholtz Center for Information Security, 2022- -->
+* B.Eng. of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english), 2018-2022
+* Ph.D in Computer Science, [CISPA Helmholtz Center for Information Security](https://cispa.de/en), 2022-2027 (expected)
 
 Work experience
 ======

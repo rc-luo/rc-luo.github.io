@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Ruichen's Homepage"
 title_separator          : "-"
 name                     : &name "Ruichen Luo"
-description              : &description "Undergraduate student @ ZJU"
+description              : &description "Incoming PhD student @CISPA,  \nB.Eng. degree of CS @ZJU"
 url                      : https://rc-luo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rc-luo/rc-luo.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Ruichen Luo"
   avatar           : "profile.png"
-  bio              : "Undergraduate student in ZJU"
+  bio              : *description
   location         : "Canton, China"
   employer         :
   pubmed           : 

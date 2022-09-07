@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student in Zhejiang University, majoring in computer science. 
+I am an (incoming) PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/) starting at 2022 fall. Prior to that, I received my bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/).
 
 
 My research
 ======
-My research interest includes but not limited to:
+My research interest includes but is not limited to:
   - Distributed optimization,
   - Statistical learning,
   - Privacy-preserving machine learning.
