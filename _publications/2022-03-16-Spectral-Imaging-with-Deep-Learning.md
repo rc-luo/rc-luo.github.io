@@ -12,4 +12,4 @@ featured: yes
 ---
 *Abstract.* The goal of spectral imaging is to capture the spectral signature of a target. Traditional scanning method for spectral imaging suffers from large system volume and low image acquisition speed for large scenes. In contrast, computational spectral imaging methods have resorted to computation power for reduced system volume, but still endure long computation time for iterative spectral reconstructions. Recently, deep learning techniques are introduced into computational spectral imaging, witnessing fast reconstruction speed, great reconstruction quality, and the potential to drastically reduce the system volume. In this article, we review state-of-the-art deep-learning-empowered computational spectral imaging methods. They are further divided into amplitude-coded, phase-coded, and wavelength-coded methods, based on different light properties used for encoding. To boost future researches, we’ve also organized publicly available spectral datasets.
 
-[Download paper here](https://www.nature.com/articles/s41377-022-00743-6.pdf)
+[Download paper here](/files/Huang et al_2022_Spectral imaging with deep learning.pdf)

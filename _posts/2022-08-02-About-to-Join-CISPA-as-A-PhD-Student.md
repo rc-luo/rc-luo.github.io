@@ -17,7 +17,7 @@ My research topic will be around distributed optimization (federated learning) a
 
 CISPA
 ======
-CISPA is an impactful research institute in the field of [information security](https://csrankings.org/#/index?sec&world). It is on the campus of [Saarland university](https://www.uni-saarland.de/en/home.html) in [Saarbrücken](https://www.google.de/maps/place/Saarbr%C3%BCcken,+Germany), located on the southwestern boarder of Germany. 
+CISPA is an [impactful research institute in information security](https://csrankings.org/#/index?sec&world). It is on the campus of [Saarland University](https://www.uni-saarland.de/en/home.html) in [Saarbrücken](https://www.google.de/maps/place/Saarbr%C3%BCcken,+Germany), located on the southwestern boarder of Germany. 
 
 I will relocate there starting this fall. Hope it'll be a pleasant journey.
 
