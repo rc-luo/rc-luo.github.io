@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ I am an (incoming) PhD student at [CISPA Helmholtz Center for Information Securi
 
 My research
 ======
-My research interest includes but is not limited to:
+My research interests include but are not limited to:
   - Distributed optimization,
   - Statistical learning,
   - Privacy-preserving machine learning.

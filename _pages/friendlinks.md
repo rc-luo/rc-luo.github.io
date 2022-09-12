@@ -1,6 +1,6 @@
 ---
 permalink: /friendlinks/
-title: "Friend Links"
+title: "Friend links"
 excerpt: "This is a page showing some friend links."
 author_profile: true
 ---

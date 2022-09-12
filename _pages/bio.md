@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short Bio"
+title: "Short bio"
 permalink: /bio/
 author_profile: true
 redirect_from:
