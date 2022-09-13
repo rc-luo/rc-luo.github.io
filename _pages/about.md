@@ -27,12 +27,22 @@ Featured publications
   (You may see the full list [here](/publications).)
   <ul>{% for post in site.publications reversed %}
     {% if post.featured == true %}
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     {% endif %}
   {% endfor %}</ul>
 
-Recent posts
+Selected posts
 ======
-  <ul>{% for post in site.posts limit: 5 reversed %}
-    {% include archive-single.html %}
+  (Pinned)
+  <ul>{% for post in site.posts %}
+    {% if post.pinned == true %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}</ul>
+
+  (Recent)
+  <ul>{% for post in site.posts limit:5 %}
+    {% if post.pinned == false %}
+      {% include archive-single.html %}
+    {% endif %}
   {% endfor %}</ul>
