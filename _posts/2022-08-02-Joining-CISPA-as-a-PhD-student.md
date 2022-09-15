@@ -1,7 +1,7 @@
 ---
-title: 'About to join CISPA as a PhD student'
+title: 'Joining CISPA as a PhD student'
 date: 2022-08-02
-permalink: /posts/2022/08/About-to-Join-CISPA-as-a-PhD-Student
+permalink: /posts/2022/08/Joining-CISPA-as-a-PhD-student
 pinned: yes
 tags:
   - news

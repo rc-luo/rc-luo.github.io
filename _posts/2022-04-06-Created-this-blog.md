@@ -1,7 +1,7 @@
 ---
-title: 'Creating this homepage'
+title: 'Created this homepage'
 date: 2022-04-06
-permalink: /posts/2022/04/Creating-This-Blog/
+permalink: /posts/2022/04/Created-this-blog/
 pinned: no
 tags:
   - news

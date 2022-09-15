@@ -44,11 +44,12 @@ Selected posts
   <ul>{% capture last_year %}'None'{% endcapture %}
   {% for post in site.posts %}
     {% if post.pinned == false %}
+      <h2 class="archive__subtitle">Recent</h2>
       {% capture last_year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% break %}
     {% endif %}
   {% endfor %}
-  <h2 class="archive__subtitle">Recent</h2>
+  
   {% for post in site.posts %}
     {% if post.pinned == false %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
