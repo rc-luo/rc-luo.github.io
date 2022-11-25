@@ -8,7 +8,7 @@ tags:
   - blogs
 ---
 
-This is to share [my notes on optimization](/files/Notes-on-Optimization.pdf), which are still incomplete, missing lots of crucial contents, and waiting for updates.
+This is to share [my notes on optimization](/files/Notes on Optimization.pdf), which are still incomplete, missing lots of crucial contents, and waiting for updates.
 
 Missing proofs
 ======
