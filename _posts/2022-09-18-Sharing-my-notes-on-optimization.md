@@ -2,13 +2,13 @@
 title: 'Sharing my notes on optimization'
 date: 2022-09-18
 permalink: /posts/2022/09/Sharing-my-notes-on-optimization/
-pinned: yes
+pinned: no
 tags:
   - news
   - blogs
 ---
 
-This is to share [my notes on optimization](/files/Notes-on-Optimization-ec242d4.pdf), which are still incomplete, missing lots of crucial contents, and waiting for updates.
+This is to share [my notes on optimization](/files/Notes-on-Optimization.pdf), which are still incomplete, missing lots of crucial contents, and waiting for updates.
 
 Missing proofs
 ======
