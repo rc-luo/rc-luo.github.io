@@ -12,18 +12,22 @@ redirect_from:
 Education
 ======
 * B.Eng. of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english), 2018-2022
-* Ph.D in Computer Science, [CISPA Helmholtz Center for Information Security](https://cispa.de/en), 2022- [!!Stopped for visa reasons](/posts/2023/02/Shocked-by-the-bad-visa-decision)
 
 Work experience
 ======
-* Jul 2021 - Oct 2021: Research Intern
+* Jul 2021 - Oct 2021: Research assistance
   * The University of Hong Kong
-  * Supervisor: [Dr. Lequan Yu](https://yulequan.github.io)
-  * Project: Selfish federated learning
+  * Advisor: [Dr. Lequan Yu](https://yulequan.github.io)
+  * Paper: Rethinking client reweighting for selfish federated learning (in submission)
 
-* Jan 2022 - May 2022: Research Intern
+* Jan 2022 - May 2022: Internship
   * [Tencent ARC Lab](https://arc.tencent.com/en/index)
   * Project: Pretrained model selection
+
+* Sep 2022 - : Research student
+  * [CISPA](https://cispa.de/en)
+  * Advisor: [Dr. Sebastian U. Stich](https://sstich.ch)
+  * Project: Refined convergence rates of Local SGD under Hessian similarity
   
 Skills
 ======
