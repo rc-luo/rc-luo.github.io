@@ -12,7 +12,7 @@ I still could not believe that this really happened. Yesterday, after half of a 
 
 Re-application
 ======
-I've immediately lost my previous job as a PhD student in CISPA, thanks for terrible decision made by the German Foreign Office. Since I was working on optimization theory (a very very basic, theoretical, and mathematical research project), I firmly believe that such kind of black-box visa decision is definitely a clear mismatch and is terribly wrong!
+I've immediately lost [my previous job as a PhD student in CISPA](/posts/2022/08/Joining-CISPA-as-a-PhD-student), thanks for terrible decision made by the German Foreign Office. Since I was working on optimization theory (a very very basic, theoretical, and mathematical research project), I firmly believe that such kind of black-box visa decision is definitely a clear mismatch and is terribly wrong!
 
 My career planning has been heavily affected by it, but now, I already have nothing to lose ;)
 

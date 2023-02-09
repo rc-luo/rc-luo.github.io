@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an (incoming) PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/) starting at 2022 fall. Prior to that, I received my bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/).
+I hold a bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). And I'm actively looking for a phd position right now. Previously, I had worked as a research intern in HKU on federated learning, and Tencent ARC Lab on transfer learning. 
+
+I have also been working with [Dr. Sebastian U. Stich](http://sstich.ch) from [CISPA](https://cispa.de/en/) on optimization theory. Please see [this post](/posts/2023/02/Shocked-by-the-bad-visa-decision) for the latest updates.
+<!-- I am an (incoming) PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/) starting at 2022 fall. Prior to that, I received my bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). -->
 
 
 My research
