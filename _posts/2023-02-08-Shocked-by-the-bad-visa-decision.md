@@ -1,6 +1,6 @@
 ---
-title: 'Joining CISPA as a PhD student'
-date: 2023-02-09
+title: 'Shocked by the bad visa decision'
+date: 2023-02-08
 permalink: /posts/2023/02/Shocked-by-the-bad-visa-decision
 pinned: yes
 tags:
@@ -8,7 +8,7 @@ tags:
   - blogs
 ---
 
-I still could not believe that this really happened. Two days ago, after half of a year being checked, my visa application is eventually refused by the German Foreign Office.
+I still could not believe that this really happened. Yesterday, after half of a year being checked, my visa application is eventually refused by the German Foreign Office.
 
 Re-application
 ======
