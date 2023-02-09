@@ -8,7 +8,7 @@ tags:
   - blogs
 ---
 
-I am excited to be joining [CISPA](https://cispa.de/en) soon as a PhD student, advised by [Dr. Sebastian U. Stich](https://sstich.ch).
+I am excited to be joining [CISPA](https://cispa.de/en) (ranking top-1 in the field of computer security according to [csrankings](https://csrankings.org/#/fromyear/2012/toyear/2022/index?sec&world)) soon as a PhD student, advised by [Dr. Sebastian U. Stich](https://sstich.ch).
 
 PhD study
 ======
@@ -21,4 +21,3 @@ CISPA
 CISPA is an [impactful research institute in information security](https://csrankings.org/#/index?sec&world). It is on the campus of [Saarland University](https://www.uni-saarland.de/en/home.html) in [Saarbrücken](https://www.google.com/maps/place/Saarbr%C3%BCcken,+Germany/@49.2472967,6.8424529,11z/data=!3m1!4b1!4m5!3m4!1s0x4795b152e302c0eb:0x422d4d510db6b80!8m2!3d49.2381697!4d6.997547), located on the southwestern boarder of Germany. 
 
 I will relocate there starting this fall. Hope it'll be a pleasant journey.
-
