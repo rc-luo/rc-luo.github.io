@@ -1,5 +1,5 @@
 ---
-title: "Spectral Imaging with Deep Learning"
+title: "Spectral imaging with deep learning"
 collection: publications
 permalink: /publication/2022-03-16-Spectral-Imaging-with-Deep-Learning
 excerpt: 'This review categorizes deep-learning-based computational spectral imaging methods and provides insight into amplitude, phase, and wavelength-based light encoding strategies for deep learning spectral reconstruction.

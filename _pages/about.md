@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I hold a bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). And I'm actively looking for a phd position right now. I have been working closely with [Dr. Sebastian U. Stich](http://sstich.ch) from [CISPA](https://cispa.de/en/) on optimization theory. Previously, I had worked as a research intern in HKU on federated learning, and Tencent ARC Lab on transfer learning. 
+I hold a bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). I have been working closely with [Dr. Sebastian U. Stich](http://sstich.ch) from [CISPA](https://cispa.de/en/) on optimization theory. Previously, I had worked as a research intern in HKU on federated learning, and Tencent ARC Lab on transfer learning. 
 <!-- Please see [this post](/posts/2023/02/Shocked-by-the-bad-visa-decision) for the latest updates. -->
 <!-- I am an (incoming) PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/) starting at 2022 fall. Prior to that, I received my bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). -->
 
@@ -20,8 +20,10 @@ My research interests include but are not limited to:
   - Statistical learning,
   - Privacy-preserving machine learning.
 
+<!-- <span style="color:#58afe4">*Highlight.*
+I am constantly seeking internship opportunities or other research collaborations. Please feel free to reach out via <a href="mailto:{{site.author.email}}">email</a> ;)</span> -->
 <span style="color:#58afe4">*Highlight.*
-I am constantly seeking internship opportunities or other research collaborations. Please feel free to reach out via <a href="mailto:{{site.author.email}}">email</a> ;)</span>
+I'm actively looking for a phd position right now. ;)</span>
 
 
 Featured publications 
