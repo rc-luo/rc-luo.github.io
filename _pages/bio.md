@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.Eng. of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english), 2018-2022
+* B.Eng. of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english) (ranking top-4 in China, and 45th in the world according to [QS](https://www.universityrankings.ch/results/QS/2022?ranking=QS&year=2022&region=&q=China)), 2018-2022
+* PhD student, [CISPA](https://cispa.de/en) (ranking top-1 in computer security according to [csrankings](https://csrankings.org/#/fromyear/2012/toyear/2022/index?sec&world)), 2022-2023.02 (inevitably stopped due to [visa refusal](/posts/2023/02/Shocked-by-the-bad-visa-decision))
 
 Work experience
 ======
-* Jul 2021 - Oct 2021: Research assistance
+* Jul 2021 - Oct 2021: Research internship
   * The University of Hong Kong
-  * Advisor: [Dr. Lequan Yu](https://yulequan.github.io)
+  * Advisor: [Prof. Lequan Yu](https://yulequan.github.io)
   * Paper: Rethinking client reweighting for selfish federated learning (in submission)
   * Contribution: Contribute to most of the paper
 
@@ -28,7 +29,7 @@ Work experience
 
 * Sep 2022 - Feb 2023 : Research student
   * [CISPA](https://cispa.de/en)
-  * Advisor: [Dr. Sebastian U. Stich](https://sstich.ch)
+  * Advisor: [Prof. Sebastian U. Stich](https://sstich.ch)
   * Project: Refined convergence rates of Local SGD under Hessian similarity
   * Contribution: First analysis and a missing baseline of the speedup of SGD from Hessian similarity
   
