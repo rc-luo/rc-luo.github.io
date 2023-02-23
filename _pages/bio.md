@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. of Computer Science, [Zhejiang University](https://www.zju.edu.cn/english) (ranking top-4 in China, and 45th in the world according to [QS](https://www.universityrankings.ch/results/QS/2022?ranking=QS&year=2022&region=&q=China)), 2018-2022
-* PhD student, [CISPA](https://cispa.de/en) (ranking top-1 in computer security according to [csrankings](https://csrankings.org/#/fromyear/2012/toyear/2022/index?sec&world)), 2022-2023.02 (inevitably stopped due to [visa refusal](/posts/2023/02/Shocked-by-the-bad-visa-decision))
+<!-- * PhD student, [CISPA](https://cispa.de/en) (ranking top-1 in computer security according to [csrankings](https://csrankings.org/#/fromyear/2012/toyear/2022/index?sec&world)), 2022-2023.02 (inevitably stopped due to [visa refusal](/posts/2023/02/Shocked-by-the-bad-visa-decision)) -->
 
 Work experience
 ======
