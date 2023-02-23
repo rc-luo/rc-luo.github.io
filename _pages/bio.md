@@ -20,24 +20,20 @@ Work experience
   * The University of Hong Kong
   * Advisor: [Prof. Lequan Yu](https://yulequan.github.io)
   * Paper: Rethinking client reweighting for selfish federated learning (in submission)
-  * Contribution: Contribute to most of the paper
 
 * Jan 2022 - May 2022: Internship
   * [Tencent ARC Lab](https://arc.tencent.com/en/index)
   * Project: Pretrained model selection
-  * Contribution: Propose and implement a tool for the generalization to non-classification task
 
-* Sep 2022 - Feb 2023 : Research student
+* Sep 2022 - : Research student
   * [CISPA](https://cispa.de/en)
   * Advisor: [Prof. Sebastian U. Stich](https://sstich.ch)
   * Project: Refined convergence rates of Local SGD under Hessian similarity
-  * Contribution: First analysis and a missing baseline of the speedup of SGD from Hessian similarity
   
 Skills
 ======
-* Optimization theory
-* Federated learning
-* Transfer learning
+* Optimization algorithms
+* Statistical learning
 * Python
   * Pytorch
   * Tensorflow
