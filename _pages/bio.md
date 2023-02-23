@@ -16,11 +16,15 @@ Education
 
 Work experience
 ======
+* 2021: Research student
+  * Zhejiang University
+  * Advisor: [Prof. Siliang Tang](https://scholar.google.com/citations?user=8e7H3PcAAAAJ)
+  * Project: Personalized federated learning in decentralized communication
+
 * Jul 2021 - Oct 2021: Research internship
   * The University of Hong Kong
-  * Advisor: [Prof. Lequan Yu](https://yulequan.github.io)
+  * Advisor: [Prof. Lequan Yu](https://scholar.google.com/citations?user=llXf3wUAAAAJ)
   * Paper: Rethinking client reweighting for selfish federated learning (in submission)
-  * Contribution: Contribute to most of the paper
 
 * Jan 2022 - May 2022: Internship
   * [Tencent ARC Lab](https://arc.tencent.com/en/index)
@@ -28,8 +32,8 @@ Work experience
   * Contribution: Propose and implement a tool for the generalization to non-classification task
 
 * Sep 2022 - Feb 2023 : Research student
-  * [CISPA](https://cispa.de/en)
-  * Advisor: [Prof. Sebastian U. Stich](https://sstich.ch)
+  * [CISPA Helmholtz Center for Information Security](https://cispa.de/en) (ranking top-1 worldwide in computer security according to [csrankings](https://csrankings.org/##/fromyear/2012/toyear/2022/index?sec&world))
+  * Advisor: [Prof. Sebastian U. Stich](https://scholar.google.com/citations?user=8l-mDfQAAAAJ)
   * Project: Refined convergence rates of Local SGD under Hessian similarity
   * Contribution: First analysis and a missing baseline of the speedup of SGD from Hessian similarity
   

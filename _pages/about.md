@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I hold a bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). And I'm actively looking for a phd position right now. I have been working closely with [Dr. Sebastian U. Stich](http://sstich.ch) from [CISPA](https://cispa.de/en/) on optimization theory and machine learning. Previously, I had worked as a research intern in HKU on federated learning, and Tencent ARC Lab on transfer learning. 
+I hold a bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). And I'm actively looking for a phd position right now. I have been working closely with [Prof. Sebastian U. Stich](http://sstich.ch) from [CISPA](https://cispa.de/en/) on statistical learning and optimization. Previously, I had worked as a research intern in HKU on federated learning for healthcare, and Tencent ARC Lab on transfer learning. During my undergraduate, I worked in the lab of [Prof. Siliang Tang](https://scholar.google.com/citations?user=8e7H3PcAAAAJ) on federated learning.
 <!-- Please see [this post](/posts/2023/02/Shocked-by-the-bad-visa-decision) for the latest updates. -->
 <!-- I am an (incoming) PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/) starting at 2022 fall. Prior to that, I received my bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). -->
 
