@@ -29,13 +29,11 @@ Work experience
 * Jan 2022 - May 2022: Internship
   * [Tencent ARC Lab](https://arc.tencent.com/en/index)
   * Project: Pretrained model selection
-  * Contribution: Propose and implement a tool for the generalization to non-classification task
 
 * Sep 2022 - Feb 2023 : Research student
   * [CISPA Helmholtz Center for Information Security](https://cispa.de/en) (ranking top-1 worldwide in computer security according to [csrankings](https://csrankings.org/##/fromyear/2012/toyear/2022/index?sec&world))
   * Advisor: [Prof. Sebastian U. Stich](https://scholar.google.com/citations?user=8l-mDfQAAAAJ)
   * Project: Refined convergence rates of Local SGD under Hessian similarity
-  * Contribution: First analysis and a missing baseline of the speedup of SGD from Hessian similarity
   
 Skills
 ======
