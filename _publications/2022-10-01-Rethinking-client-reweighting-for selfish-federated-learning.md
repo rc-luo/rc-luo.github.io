@@ -1,4 +1,4 @@
-----
+---
 title: "Rethinking client reweighting for selfish federated learning"
 collection: publications
 permalink: /publication/2022-10-01-Rethinking-client-reweighting-for selfish-federated-learning
