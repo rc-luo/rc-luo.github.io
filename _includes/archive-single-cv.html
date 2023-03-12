@@ -32,11 +32,23 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      {% if post.venue and post.mark %}
+          <b><span style="color:red;font-size:+2"> [{{ post.mark }}] </span></b>
+      {% endif %}  
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {% if post.collection != 'teaching' and post.collection != 'publications' %}
+      {% if post.date %}
+        <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+      {% endif %}
+    {% endif %}
+    {% if post.venue %}
+      <p class="archive__item-excerpt" itemprop="description"> 
+        {{ post.citation }}
+      </p> 
+    {% endif %}
     </li>
  </article>
 </div>

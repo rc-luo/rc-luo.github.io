@@ -40,17 +40,17 @@ Featured publications
 Selected posts
 ======
 (You may see the full list [here](/year-archive).)
-  <ul><h2 class="archive__subtitle">Pinned</h2>
+  <ul><h1 class="archive__subtitle">Pinned</h1>
   {% for post in site.posts %}
     {% if post.pinned == true %}
-      {% include archive-single.html %}
+      {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
 
   <ul>{% capture last_year %}'None'{% endcapture %}
   {% for post in site.posts %}
     {% if post.pinned == false %}
-      <h2 class="archive__subtitle">Recent</h2>
+      <h1 class="archive__subtitle">Recent</h1>
       {% capture last_year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% break %}
     {% endif %}
@@ -60,7 +60,7 @@ Selected posts
     {% if post.pinned == false %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% if year == last_year %}
-        {% include archive-single.html %}
+        {% include archive-single-cv.html %}
       {% endif %}
     {% endif %}
   {% endfor %}</ul>
