@@ -14,7 +14,7 @@ I hold a bachelor degree of computer science in [Zhejiang University](https://ww
 <!-- <span style="color:#58afe4">*Highlight.*
 I am constantly seeking internship opportunities or other research collaborations. Please feel free to reach out via <a href="mailto:{{site.author.email}}">email</a> ;)</span> -->
 <span style="color:#58afe4">*Highlight.*
-I'm re-applying and actively looking for a phd position right now! ;)</span>
+I'm actively looking for a phd position right now! ;)</span>
 
 
 My research
