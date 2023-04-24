@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I hold a bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). Previously, I had worked as a research intern in HKU on federated learning, and Tencent ARC Lab on transfer learning. 
-
-I was an incoming phd student at [CISPA](https://cispa.de/en/) (ranking top-1 in the field of computer security according to [csrankings](https://csrankings.org/#/fromyear/2012/toyear/2022/index?sec&world)) in the group of [Prof. Sebastian U. Stich](https://sstich.ch), working on optimization theory. However, sadly but true, something unfortunate and terribly wrong happens [(see this post)](/posts/2023/02/Shocked-by-the-bad-visa-decision).
-<!-- I am an (incoming) PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en/) starting at 2022 fall. Prior to that, I received my bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). -->
+I hold a bachelor degree of computer science in [Zhejiang University](https://www.zju.edu.cn/english/). I'm interested in mathematical optimziation, convex analysis, statistics, and stochastic processes. I enjoy the research work as a combination of mathematical beauty and formal rigor.
 
 
 <!-- <span style="color:#58afe4">*Highlight.*
@@ -23,9 +20,9 @@ I'm re-applying and actively looking for a phd position right now! ;)</span>
 My research
 ======
 My research interests include but are not limited to:
-  - Distributed optimization,
-  - Statistical learning,
-  - Privacy-preserving machine learning.
+  - Mathematical optimization,
+  - Convex analysis,
+  - Statistics & stochastic processes.
 
 
 Featured publications 
