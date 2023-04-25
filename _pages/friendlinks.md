@@ -8,5 +8,3 @@ author_profile: true
 Some friend links:
 
 [Longqian Huang](https://longqianh.com)
-
-[Sebastian Urban Stich](https://www.sstich.ch)
